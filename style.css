@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid;
+}
+
+@font-face {
+    font-family: "font";
+    src: url("SourceSansPro-Bold.ttf");
+}
+
+body, a, button, h1, h2, p, ol, table, th, td {
+    font-family: "font";
+}
